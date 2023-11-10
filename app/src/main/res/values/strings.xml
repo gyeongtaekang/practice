@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">스트링.xml에있음</string>
+    <string-array name="food_options">
+        <item>모두 보기</item>
+        <item>치킨</item>
+        <item>피자</item>
+        <item>족발</item>
+        <item>디저트</item>
+    </string-array>
+    <string-array name="food_options_for_creation">
+        <item>치킨</item>
+        <item>피자</item>
+        <item>족발</item>
+        <item>디저트</item>
+        <!-- 모두 보기 옵션을 포함하지 않음 -->
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

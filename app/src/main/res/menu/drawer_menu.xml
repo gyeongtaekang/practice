@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_one"
+            android:icon="@drawable/chicken"
+            android:title="Item 1" />
+        <item
+            android:id="@+id/nav_item_two"
+            android:icon="@drawable/pizza"
+            android:title="Item 2" />
+
+        <!-- 추가 메뉴 항목을 여기에 추가 -->
+    </group>
+</menu>
